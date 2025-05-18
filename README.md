@@ -1,4 +1,4 @@
-# 🤣 PiadaPronta: Humor Econômico Bisociativo com Gemini 🧠
+# 🤣 PiadaPronta: Humor Econômico Bissociativo com Gemini 🧠
 
 **Onde a Teoria da Criatividade Colide com LLMs para Extrair Risadas (e Insights) do Mundo da Economia.**
 
@@ -28,7 +28,7 @@ Este programa utiliza a capacidade semântica e generativa do modelo Gemini para
 
 ## 🌱 Evolução: Da Piada ao Insight Científico
 
-A exploração da bisociação com notícias econômicas é apenas o começo. A beleza da teoria de Koestler reside em sua aplicabilidade universal aos atos criativos. Koestler argumentou que as grandes descobertas científicas ("Aha!") e os momentos de iluminação artística ("Ah!") compartilham o mesmo mecanismo bisociativo do humor ("Haha!").
+A exploração da bisociação com notícias econômicas é apenas o começo. A beleza da teoria de Koestler reside em sua aplicabilidade universal aos atos criativos. Koestler argumentou que as grandes descobertas científicas ("Aha!") e os momentos de iluminação artística ("Ah!") compartilham o mesmo mecanismo bissociativo do humor ("Haha!").
 
 Como próxima etapa e evolução natural deste trabalho, vislumbra-se adaptar este agente. Em vez de analisar notícias econômicas, ele poderia processar **notícias e artigos científicos**. O objetivo seria utilizar o princípio da bisociação para identificar conexões não óbvias entre diferentes áreas da ciência ou conceitos, buscando **sugerir novas hipóteses, linhas de pesquisa ou ideias para invenções**.
 
