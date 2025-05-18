@@ -36,7 +36,15 @@ Este protótipo inicial serve como uma prova de conceito e uma base prática par
 
 ## 🏃‍♀️ Como Executar
 
-1.  Abra o notebook `PiadaPronta_v01.ipynb` no Google Colab.
-2.  Obtenha uma API Key para o Google Gemini e configure-a nos "Segredos do Colab" (clique no ícone de chave na barra lateral esquerda) com o nome `GOOGLE_API_KEY`.
-3.  Execute as células do notebook na ordem: Célula 1, Célula 2, Célula 3, Célula 4, Célula 5 e Célula 6.
-4.  Observe a saída gerada para cada notícia processada.
+Este projeto está disponível como um notebook Jupyter no Google Colab, hospedado neste repositório GitHub.
+
+1.  **Abrir no Google Colab:**
+    * Navegue até o arquivo `PiadaPronta_v01.ipynb` neste repositório GitHub.
+    * No GitHub, você verá um botão "Open in Colab" que permite abrir o notebook diretamente no Google Colab com um clique. Alternativamente, você pode copiar a URL do notebook no GitHub e colá-la diretamente na página inicial do Google Colab.
+2.  **Configurar a API Key do Gemini:**
+    * Este notebook requer uma API Key do Google Gemini. Se você ainda não possui uma, pode obtê-la gratuitamente através do Google AI Studio.
+    * No ambiente do Google Colab, clique no ícone de chave ("Secrets" ou "Segredos") localizado na barra lateral esquerda.
+    * Clique em "+ New secret", insira `GOOGLE_API_KEY` no campo "Name" e cole sua chave API no campo "Value". Certifique-se de que a opção "Notebook access" esteja ativada para este segredo.
+3.  **Executar as Células:**
+    * Execute as células do notebook em sequência, de cima para baixo (Célula 1, Célula 2, Célula 3, Célula 4, Célula 5 e Célula 6). Você pode fazer isso clicando no ícone de "play" em cada célula ou usando as opções do menu "Runtime" -> "Run all" (executar tudo) ou "Run after" (executar depois).
+    * Observe a saída gerada no notebook para ver as piadas e análises bisociativas para as notícias econômicas.
