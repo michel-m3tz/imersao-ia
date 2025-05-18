@@ -6,7 +6,7 @@
 
 ## 🚀 Introdução: O Que Este Programa Faz?
 
-Prepare-se para uma jornada inusitada na intersecção entre Inteligência Artificial, psicologia cognitiva e o (geralmente sério) universo da economia. Este projeto, carinhosamente batizado de **PiadaPronta**, implementa um protótipo de agente criativo utilizando o **Google Gemini SDK** para aplicar uma teoria fascinante da criatividade humana – a **Teoria da Bisociação de Arthur Koestler** – na geração automatizada de piadas sobre notícias econômicas recentes.
+Prepare-se para uma jornada inusitada na intersecção entre Inteligência Artificial, psicologia cognitiva e o (geralmente sério) universo da economia. Este projeto, carinhosamente batizado de **PiadaPronta**, implementa um protótipo de agente criativo utilizando o **Google Gemini SDK** para aplicar uma teoria fascinante da criatividade humana – a **Teoria da Bissociação de Arthur Koestler** – na geração automatizada de piadas sobre notícias econômicas recentes.
 
 Em essência, buscamos simular computacionalmente o processo de encontrar conexões inesperadas entre o cotidiano econômico (inflação, juros, mercado de trabalho...) e domínios de pensamento totalmente diferentes, gerando aquele "clique" de surpresa e humor característico da bisociação. É uma exploração prática do potencial dos Large Language Models (LLMs) não apenas em gerar texto, mas em mimetizar (ou aproximar) mecanismos cognitivos complexos subjacentes à criatividade e ao humor.
 
